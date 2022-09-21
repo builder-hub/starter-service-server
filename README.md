@@ -31,7 +31,7 @@ The server sources are organized into the following top-level folders:
 
   Navigate into the project:
   ```sh
-  cd {TEMPLATE_SERVICE_HYPHEN_NAME}-server
+  cd {TEMPLATE_SERVICE_HYPHEN_NAME}-service-server
   ```
 </details>
 
