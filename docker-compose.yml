@@ -1,0 +1,8 @@
+version: "3"
+services:
+  {TEMPLATE_SERVICE_HYPHEN_NAME}-service:
+    image: ${DOCKER_REGISTRY}/{TEMPLATE_SERVICE_HYPHEN_NAME}-service
+    build:
+      context: .
+    ports:
+      - "50051:50051"
