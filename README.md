@@ -26,7 +26,7 @@ The server sources are organized into the following top-level folders:
   Clone the project recursively cloning all submodules
 
   ```sh
-  git clone git@github.com:{TARGET_SERVER_REPO_OWNER}/{TEMPLATE_SERVICE_HYPHEN_NAME}-service-server.git --recurse-submodules
+  git clone git@github.com:{TEMPLATE_SERVER_REPO_OWNER}/{TEMPLATE_SERVICE_HYPHEN_NAME}-service-server.git --recurse-submodules
   ```
 
   Navigate into the project:
